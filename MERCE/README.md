@@ -1,6 +1,6 @@
 # "La Mercè" dataset
 
-This dataset contains tweet_ids for all tweets geo-located in the city of Barcelona during its local festivities ("tweets.csv") in 2014 and 2015. Moreover, we provide the subset of tweets which are labeled according to the event they refer ("labeled_events.csv").
+This dataset contains tweet_ids for all tweets geo-located in the city of Barcelona during its local festivities in 2014 and 2015 (“2014/tweets.txt 2015/tweets.txt”). We also provide the subset of tweets that are labeled with the corresponding event (“2014/labeled_events.csv”, “2015/labeled_events.csv”).
 
 ## Citation
 

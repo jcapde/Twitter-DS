@@ -6,6 +6,7 @@ Twitter's Terms of Service restricts the distribution of tweet contents. To ensu
 
 Tools to automatically retrieve tweet contents from their ids are not provided by the authors, but some have been developed within the [social sensor project](https://github.com/socialsensor/twitter-dataset-collector).
 
+Note that some tweets might have been deleted or their users changed the privacy level. 
 
 # Contact 
 
