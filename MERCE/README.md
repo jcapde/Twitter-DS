@@ -5,7 +5,7 @@ This dataset contains tweet_ids for all tweets geo-located in the city of Barcel
 ## Citation
 
 ```
-@inproceedings{CapdevilaCNT15,
+@inproceedings{J4,
 	Author = {Joan Capdevila and Jes{\'{u}}s Cerquides and Jordi Nin and Jordi Torres},
 	Booktitle = {Artificial Intelligence Research and Development - Proceedings of the 18th International Conference of the Catalan Association for Artificial Intelligence, Valencia, Spain, October 21-23, 2015.},
 	Pages = {110--119},
